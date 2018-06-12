@@ -34,4 +34,3 @@ tensorflow テストコード
 ### fulit.jpg
 ### img.jpg
 ### dims.jpg
-s
