@@ -1,36 +1,22 @@
 # research_test
 研究の準備となるテストプラグラム
 
-## PIL #
-PIL を使用したテストコード　　
+　　
+## OpenCV
+　OpenCV のテストプログラム　
+　　
+　　
+## raaspy
+　　raspberryPi を使ったプログラム (研究に向けて自動画像取得)
 
-### bokashi.py
-
-### edit_image.py
-
-## openCV #
-openCV を使用したテストコード
-### histgram.py
-
-### median.py
-
-### smoothing.py
-
-### test.py
-
-## raspy
-ラズパイのコード
+### images
+　　取得画像を保存するディレクトリ
+　　　　
+## recognition
+　　画像認識プログラム
 　　
 ## tensorflow
-tensorflow テストコード
-物体検出をさせて研究に応用させたい　
-　→　作物の状態判別
-
-### fulit.py
+　　tensorflow 関連プログラム
 
 ## test_images
-使用した画像データ
-
-### fulit.jpg
-### img.jpg
-### dims.jpg
+　　テストで使用する画像
